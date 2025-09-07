@@ -1,4 +1,3 @@
-// ✅ This file should be named `page.jsx` and placed inside the `app/` folder.
 import React from "react";
 
 export default function Page() {
